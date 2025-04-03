@@ -1,1 +1,6 @@
-/*  your css code here. If applicable */
+.right {
+	text-align: right;
+}
+.middle {
+	text-align: center;
+}
